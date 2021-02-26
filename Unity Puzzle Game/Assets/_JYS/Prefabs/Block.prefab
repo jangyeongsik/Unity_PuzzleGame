@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 1109317039062563403}
   - component: {fileID: 819985947638097963}
   - component: {fileID: 2493613331963222899}
-  m_Layer: 8
+  m_Layer: 0
   m_Name: Block
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -121,3 +121,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dfa4c347f4bbfbf40af1a16ee4177efd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  blockColor: 3
+  bl_Left: {fileID: 0}
+  bl_Right: {fileID: 0}
+  bl_Up: {fileID: 0}
+  bl_Down: {fileID: 0}
